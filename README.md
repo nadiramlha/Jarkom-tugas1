@@ -1,7 +1,7 @@
 # Jarkom-tugas1
-Nama : Nadira Milha Nailul Fath
-NRP : 5025211253
-Kelas : JARKOM D
+| Name | NRP | Kelas |
+| :----------------: | :----------------: | :----------------: |
+| Nadira Milha Nailul Fath | 5025211253 | JARKOM D |
 ## TCP
 ### 1
 <img width="960" alt="No1 no2" src="https://github.com/nadiramlha/Jarkom-tugas1/assets/88009253/05bbd0d3-356a-49d2-ae0e-8de05b3e15ca">
